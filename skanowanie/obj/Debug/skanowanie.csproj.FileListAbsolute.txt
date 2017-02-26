@@ -1,0 +1,18 @@
+C:\Users\Szopa Mateusz\Desktop\C#\skanowanie\skanowanie\bin\Debug\skanowanie.exe.config
+C:\Users\Szopa Mateusz\Desktop\C#\skanowanie\skanowanie\obj\Debug\skanowanie.csprojResolveAssemblyReference.cache
+C:\Users\Szopa Mateusz\Desktop\C#\skanowanie\skanowanie\obj\Debug\skanowanie.Form1.resources
+C:\Users\Szopa Mateusz\Desktop\C#\skanowanie\skanowanie\obj\Debug\skanowanie.Properties.Resources.resources
+C:\Users\Szopa Mateusz\Desktop\C#\skanowanie\skanowanie\obj\Debug\skanowanie.csproj.GenerateResource.Cache
+C:\Users\Szopa Mateusz\Desktop\C#\skanowanie\skanowanie\bin\Debug\skanowanie.exe
+C:\Users\Szopa Mateusz\Desktop\C#\skanowanie\skanowanie\bin\Debug\skanowanie.pdb
+C:\Users\Szopa Mateusz\Desktop\C#\skanowanie\skanowanie\obj\Debug\skanowanie.exe
+C:\Users\Szopa Mateusz\Desktop\C#\skanowanie\skanowanie\obj\Debug\skanowanie.pdb
+C:\Users\mateu\Desktop\Programowanie\specka\C#\skanowanie\skanowanie\bin\Debug\skanowanie.exe.config
+C:\Users\mateu\Desktop\Programowanie\specka\C#\skanowanie\skanowanie\obj\Debug\skanowanie.exe
+C:\Users\mateu\Desktop\Programowanie\specka\C#\skanowanie\skanowanie\obj\Debug\skanowanie.pdb
+C:\Users\mateu\Desktop\Programowanie\specka\C#\skanowanie\skanowanie\bin\Debug\skanowanie.exe
+C:\Users\mateu\Desktop\Programowanie\specka\C#\skanowanie\skanowanie\bin\Debug\skanowanie.pdb
+C:\Users\mateu\Desktop\Programowanie\specka\C#\skanowanie\skanowanie\obj\Debug\skanowanie.csprojResolveAssemblyReference.cache
+C:\Users\mateu\Desktop\Programowanie\specka\C#\skanowanie\skanowanie\obj\Debug\skanowanie.Form1.resources
+C:\Users\mateu\Desktop\Programowanie\specka\C#\skanowanie\skanowanie\obj\Debug\skanowanie.Properties.Resources.resources
+C:\Users\mateu\Desktop\Programowanie\specka\C#\skanowanie\skanowanie\obj\Debug\skanowanie.csproj.GenerateResource.Cache
